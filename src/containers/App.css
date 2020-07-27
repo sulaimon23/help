@@ -1,0 +1,16 @@
+
+.all{
+  display: flex;
+  overflow: auto;
+  margin-top: 0;
+  height: 93vh;
+  overflow: hidden;
+}
+.App {
+  width:80%;
+  margin: auto;
+  margin-right: 0;
+  margin-top: 0;
+  height: 93vh;
+  overflow: auto;
+}
